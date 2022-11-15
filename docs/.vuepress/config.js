@@ -20,7 +20,7 @@ module.exports = {
         ]
     ],
     // 路径配置
-    base: '/bear-s-blog/',
+    base: '//',
     title: 'Bear‘s Blog',
     description: '面试系列，浏览器原理，计算机网络，JS',
     theme: 'reco',
